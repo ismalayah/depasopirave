@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://depasopirave.netlify.app/sitemap.xml
